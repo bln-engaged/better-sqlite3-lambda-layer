@@ -1,0 +1,14 @@
+{
+  "name": "better-sqlite3-layer",
+  "version": "0.1.1",
+  "description": "A lambda layer packaging of better-sqlite3",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BLN",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0"
+  }
+}
